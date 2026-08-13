@@ -20,5 +20,4 @@ elementary components of the pruning process are applied properly.
 
 ## Contact
 
-Questions are welcome via GitHub issues, or by email to
-`{hyeondo.jang, kwanhee.lee, dongyeop.lee2, namhoon.lee}@postech.ac.kr`.
+Questions are welcome via GitHub issues, or by email to `hyeondo.jang@postech.ac.kr`.
