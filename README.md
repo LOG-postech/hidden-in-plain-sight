@@ -1,4 +1,4 @@
-# Hidden in Plain Sight: The Overlooked Significance of Canonical Elements for Extreme LLM Sparsity (EMNLP 2026)
+# Hidden in Plain Sight: The Overlooked Significance of Canonical Elements for Extreme LLM Sparsity
 
 This repository contains PyTorch source code for the EMNLP 2026 paper *Hidden in Plain Sight: The Overlooked Significance of Canonical Elements for Extreme LLM Sparsity*.
 
